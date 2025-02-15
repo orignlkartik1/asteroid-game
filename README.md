@@ -26,7 +26,7 @@ pip install pygame
 
 ### 2️⃣ Clone or Download the Project
 ```sh
-git clone https://github.com/your-repo/asteroids-game.git
+git clone https://github.com/orignlkartik1/asteroids-game.git
 cd asteroids-game
 ```
 
@@ -43,7 +43,6 @@ python main.py
 | `W` | Rotate left |
 | `Z` | Rotate right |
 | `SPACE` | Shoot bullets |
-| `R` | Restart after Game Over |
 
 ## 📁 Project Structure
 ```
